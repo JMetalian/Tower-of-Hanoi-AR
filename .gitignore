@@ -1,0 +1,12 @@
+.vscode/
+Library/
+.csproj
+.sln
+Temp/
+obj/
+Logs/
+UserSettings/
+QCAR/somedata16
+Tower of Hanoi AR.sln
+*.csproj
+Packages/
